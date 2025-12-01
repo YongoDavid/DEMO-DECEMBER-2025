@@ -3,4 +3,4 @@ MORE DRIVE, MORE KNOWLEDGE AND UNDERSTANDING!
 TECHNOLOGY, COMPUTERS AND CODE IS THE CLOSEST THING TO MAGIC!
 
 DEC 01
-I will be giving detailed daily updates from now.
+I still have unfinised business wwith a Next.js course i am taking, i will get back to it once i have WORK related business handled.
