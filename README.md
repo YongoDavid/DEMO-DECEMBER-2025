@@ -8,3 +8,5 @@ Vendoza mockup 1 is done, i will continue working on mockup 2 and submit.
 
 DEC 02
 Another day, more grind.
+
+DEC 04
