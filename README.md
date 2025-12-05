@@ -14,3 +14,4 @@ Another day, more grind.
 Work related business complete, now i will go back to learning next.
 
 DEC 05
+New day same grind.
