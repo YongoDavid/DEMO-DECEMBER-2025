@@ -16,3 +16,5 @@ Work related business complete, now i will go back to learning next.
 DEC 05
 New day same grind.
 focused work only, not jumping from task to task.
+
+DEC 08
