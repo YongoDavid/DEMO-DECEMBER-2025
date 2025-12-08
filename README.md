@@ -19,3 +19,4 @@ focused work only, not jumping from task to task.
 
 DEC 08
 New day, new week.
+focused work only, no jumpting from task to task, i will finish one then move to the next.
