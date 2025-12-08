@@ -18,3 +18,4 @@ New day same grind.
 focused work only, not jumping from task to task.
 
 DEC 08
+New day, new week.
