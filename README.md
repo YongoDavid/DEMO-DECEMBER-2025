@@ -25,3 +25,5 @@ Did more study on Next and gained more knowledge and understanding.
 DEC 09
 New day, more grind.
 practice all i learnt yesterday on Next.
+
+DEC 10
