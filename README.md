@@ -28,3 +28,4 @@ practice all i learnt yesterday on Next.
 
 DEC 10
 New day, same grind.
+practice more of Next.
