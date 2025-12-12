@@ -36,3 +36,4 @@ After practicing what i have learnt so far, i will continue studying more.
 
 DEC 12
 New day, same grind.
+Still trying to understand error handing in Next.js9(especially expected errors)
