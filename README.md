@@ -35,3 +35,4 @@ New day, same grind.
 After practicing what i have learnt so far, i will continue studying more.
 
 DEC 12
+New day, same grind.
