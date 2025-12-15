@@ -1,6 +1,6 @@
 # DEMO-DECEMBER-2025
 MORE DRIVE, MORE KNOWLEDGE AND UNDERSTANDING!
-TECHNOLOGY, COMPUTERS AND CODE IS THE CLOSEST THING TO MAGIC!
+TECHNOLOGY, COMPUTERS AND CODE ARE THE CLOSEST THING TO MAGIC!
 
 DEC 01
 I still have unfinished business with a Next.js course i am taking, i will get back to it once i have WORK related business handled.
@@ -36,4 +36,6 @@ After practicing what i have learnt so far, i will continue studying more.
 
 DEC 12
 New day, same grind.
-Still trying to understand error handing in Next.js9(especially expected errors)
+Still trying to understand error handing in Next.js(especially expected errors)
+
+DEC 15
