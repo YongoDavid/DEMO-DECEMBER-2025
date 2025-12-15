@@ -39,3 +39,4 @@ New day, same grind.
 Still trying to understand error handing in Next.js(especially expected errors)
 
 DEC 15
+New week, new day, same grind.
