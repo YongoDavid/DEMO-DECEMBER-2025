@@ -40,3 +40,5 @@ Still trying to understand error handing in Next.js(especially expected errors)
 
 DEC 15
 New week, new day, more grind.
+
+DEC 18
