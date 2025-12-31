@@ -51,3 +51,5 @@ DEC 22
 New day, new week, same grind.
 
 DEC 31
+2025 has ended as an Amazing year, i definately finished the year better than i started.
+Cheers to more work, development and increased skill next in 2026.
