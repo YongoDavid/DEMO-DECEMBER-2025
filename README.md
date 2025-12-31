@@ -49,3 +49,5 @@ New day, same grind.
 
 DEC 22
 New day, new week, same grind.
+
+DEC 31
